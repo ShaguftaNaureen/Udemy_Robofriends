@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Udemy_Robofriends/static/css/main.bfe03ec2.css",
-    "main.js": "/Udemy_Robofriends/static/js/main.e1cc57d7.js",
+    "main.js": "/Udemy_Robofriends/static/js/main.41cd32b6.js",
     "static/js/787.32032a02.chunk.js": "/Udemy_Robofriends/static/js/787.32032a02.chunk.js",
     "static/media/SEGA.woff": "/Udemy_Robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/Udemy_Robofriends/index.html",
     "main.bfe03ec2.css.map": "/Udemy_Robofriends/static/css/main.bfe03ec2.css.map",
-    "main.e1cc57d7.js.map": "/Udemy_Robofriends/static/js/main.e1cc57d7.js.map",
+    "main.41cd32b6.js.map": "/Udemy_Robofriends/static/js/main.41cd32b6.js.map",
     "787.32032a02.chunk.js.map": "/Udemy_Robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfe03ec2.css",
-    "static/js/main.e1cc57d7.js"
+    "static/js/main.41cd32b6.js"
   ]
 }
